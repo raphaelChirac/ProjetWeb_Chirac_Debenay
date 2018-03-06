@@ -1,0 +1,44 @@
+.navigation
+{
+    margin-bottom: 0px;
+}
+
+.navbar.navbar-default {
+    background-color:rgb(193, 204, 204);
+    height: 50px;
+  }
+
+  .actions .action-button {
+    background:#66d7d7;
+    margin-right:10px;
+    margin-bottom: 5px;   
+    margin-top: -10px;   
+      
+  }
+  
+  .navigation-clean-button {
+    background:#fff;
+    color:#333;
+    border-radius:0;
+    box-shadow:none;
+    border:none;
+    margin-bottom:0;
+  }
+  
+  .container .row .box 
+  {
+    background-color:#505e66;
+    border-radius:4px;
+    color:black;
+    box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+}
+  
+h1
+{
+  text-align: center;
+}
+h4
+{
+  display:inline;
+}
+  
